@@ -5929,7 +5929,7 @@ var players = [
     },
     {
         "EnglishName": "Ko",
-        "JapaneseName": "Seong-hwan",
+        "JapaneseName": "Sung-hwan",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
@@ -5941,7 +5941,7 @@ var players = [
     },
     {
         "EnglishName": "Park",
-        "JapaneseName": "Baek-yeon",
+        "JapaneseName": "Baek-young",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
@@ -6013,7 +6013,7 @@ var players = [
     },
     {
         "EnglishName": "Yi",
-        "JapaneseName": "Cheong-yun",
+        "JapaneseName": "Chung-yoon",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
@@ -6025,7 +6025,7 @@ var players = [
     },
     {
         "EnglishName": "Ja",
-        "JapaneseName": "Jeong-won",
+        "JapaneseName": "Jung-on",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
@@ -6037,7 +6037,7 @@ var players = [
     },
     {
         "EnglishName": "Noh",
-        "JapaneseName": "Seong-jun",
+        "JapaneseName": "Sung-joon",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
@@ -7105,7 +7105,7 @@ var players = [
     },
     {
         "EnglishName": "Robingo",
-        "JapaneseName": "Roniejo",
+        "JapaneseName": "Ronijo",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
@@ -15901,7 +15901,7 @@ var players = [
     },
     {
         "EnglishName": "Sinja",
-        "JapaneseName": "Sin-jae",
+        "JapaneseName": "Shin-jae",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
@@ -15925,7 +15925,7 @@ var players = [
     },
     {
         "EnglishName": "Seu",
-        "JapaneseName": "Yeong-jin",
+        "JapaneseName": "Young-jin",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
@@ -15937,7 +15937,7 @@ var players = [
     },
     {
         "EnglishName": "Shin",
-        "JapaneseName": "Sin",
+        "JapaneseName": "Shin",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
@@ -15949,7 +15949,7 @@ var players = [
     },
     {
         "EnglishName": "Yang",
-        "JapaneseName": "Geon-woo",
+        "JapaneseName": "Gun-woo",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
@@ -15985,7 +15985,7 @@ var players = [
     },
     {
         "EnglishName": "Sim",
-        "JapaneseName": "So-yeon",
+        "JapaneseName": "Seo-yeon",
         "Gender": "Female",
         "Position": "FW",
         "Element": "Earth",
@@ -15997,7 +15997,7 @@ var players = [
     },
     {
         "EnglishName": "Hwang",
-        "JapaneseName": "Hwangju",
+        "JapaneseName": "Hwangjoo",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
@@ -16009,7 +16009,7 @@ var players = [
     },
     {
         "EnglishName": "Lee",
-        "JapaneseName": "Chung-yun",
+        "JapaneseName": "Choon-yoon",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
@@ -16261,7 +16261,7 @@ var players = [
     },
     {
         "EnglishName": "Waard",
-        "JapaneseName": "Kasim",
+        "JapaneseName": "Qasim",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
@@ -16465,7 +16465,7 @@ var players = [
     },
     {
         "EnglishName": "Jorayev",
-        "JapaneseName": "Golbakh",
+        "JapaneseName": "Golibav",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
@@ -40632,7 +40632,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Fischer",
+        "EnglishName": "Sandra",
         "JapaneseName": "Norika",
         "Gender": "Female",
         "Position": "GK",
@@ -40644,7 +40644,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Hikaru",
+        "EnglishName": "Lucas",
         "JapaneseName": "Hikaru",
         "Gender": "Male",
         "Position": "MF",
@@ -40656,7 +40656,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Mitsuru",
+        "EnglishName": "Phil",
         "JapaneseName": "Mitsuru",
         "Gender": "Male",
         "Position": "MF",
@@ -40668,7 +40668,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Hardy",
+        "EnglishName": "Basile",
         "JapaneseName": "Kozoumaru",
         "Gender": "Male",
         "Position": "FW",
@@ -40680,8 +40680,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Shin",
-        "JapaneseName": "Shin",
+        "EnglishName": "Park",
+        "JapaneseName": "Rae-won",
         "Gender": "Male",
         "Position": "GK",
         "Element": "None",
@@ -40693,7 +40693,7 @@ var players = [
     },
     {
         "EnglishName": "Hwang",
-        "JapaneseName": "Hwang",
+        "JapaneseName": "Do-yoon",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -40705,7 +40705,7 @@ var players = [
     },
     {
         "EnglishName": "Kim",
-        "JapaneseName": "Kim",
+        "JapaneseName": "Young-woo",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -40716,8 +40716,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Song",
-        "JapaneseName": "Song",
+        "EnglishName": "Sung",
+        "JapaneseName": "Seo-ah",
         "Gender": "Female",
         "Position": "DF",
         "Element": "None",
@@ -40740,8 +40740,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Yeon",
-        "JapaneseName": "Yeon",
+        "EnglishName": "Young",
+        "JapaneseName": "Young",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -40752,7 +40752,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Seung-jin",
+        "EnglishName": "Lee",
         "JapaneseName": "Seung-jin",
         "Gender": "Male",
         "Position": "MF",
@@ -40800,8 +40800,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Dong-hyeok",
-        "JapaneseName": "Dong-hyeok",
+        "EnglishName": "Dong-hyuk",
+        "JapaneseName": "Dong-hyuk",
         "Gender": "Male",
         "Position": "FW",
         "Element": "None",
@@ -40812,8 +40812,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Ho",
-        "JapaneseName": "Ho",
+        "EnglishName": "Heo",
+        "JapaneseName": "Eun-chang",
         "Gender": "Male",
         "Position": "FW",
         "Element": "None",
@@ -40824,8 +40824,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Son",
-        "JapaneseName": "Son",
+        "EnglishName": "Min-soo",
+        "JapaneseName": "Min-soo",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -40837,7 +40837,7 @@ var players = [
     },
     {
         "EnglishName": "Ha",
-        "JapaneseName": "Ha",
+        "JapaneseName": "Jung-pyo",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -40956,8 +40956,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Onakhon",
-        "JapaneseName": "Onakhon",
+        "EnglishName": "Onaxon",
+        "JapaneseName": "Onaxon",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -40968,7 +40968,7 @@ var players = [
         "Game": "Orion"
     },
         {
-        "EnglishName": "Dost",
+        "EnglishName": "Tango",
         "JapaneseName": "Dost",
         "Gender": "Male",
         "Position": "FW",
@@ -41065,7 +41065,7 @@ var players = [
     },
     {
         "EnglishName": "Beelze",
-        "JapaneseName": "Beelze",
+        "JapaneseName": "Beelzebub",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -41100,7 +41100,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Satan",
+        "EnglishName": "Beryl",
         "JapaneseName": "Satan",
         "Gender": "Male",
         "Position": "MF",
@@ -41112,7 +41112,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Satan²",
+        "EnglishName": "Beryl²",
         "JapaneseName": "Satan²",
         "Gender": "Male",
         "Position": "MF",
@@ -41124,7 +41124,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Satan³",
+        "EnglishName": "Beryl³",
         "JapaneseName": "Satan³",
         "Gender": "Male",
         "Position": "MF",
@@ -41136,7 +41136,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Sar",
+        "EnglishName": "Serge",
         "JapaneseName": "Sar",
         "Gender": "Male",
         "Position": "FW",
@@ -41148,7 +41148,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "As",
+        "EnglishName": "Aster",
         "JapaneseName": "As",
         "Gender": "Male",
         "Position": "FW",
@@ -41160,7 +41160,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Luci",
+        "EnglishName": "Lu",
         "JapaneseName": "Luci",
         "Gender": "Male",
         "Position": "MF",
@@ -41292,7 +41292,7 @@ var players = [
         "Game": "Orion"
     },
         {
-        "EnglishName": "Andreas",
+        "EnglishName": "Perry",
         "JapaneseName": "Andreas",
         "Gender": "Male",
         "Position": "FW",
@@ -41461,7 +41461,7 @@ var players = [
     },
             {
         "EnglishName": "Shuu",
-        "JapaneseName": "Shuu",
+        "JapaneseName": "Xiu",
         "Gender": "Male",
         "Position": "FW",
         "Element": "None",
@@ -41653,7 +41653,7 @@ var players = [
     },
     {
         "EnglishName": "Dash",
-        "JapaneseName": "Rapid",
+        "JapaneseName": "Kid",
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
@@ -42000,8 +42000,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Alexi",
-        "JapaneseName": "Alexi",
+        "EnglishName": "Alexei",
+        "JapaneseName": "Alexei",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -42012,8 +42012,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Labi",
-        "JapaneseName": "Labi",
+        "EnglishName": "Rabi",
+        "JapaneseName": "Rabi",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -42024,8 +42024,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Gennady",
-        "JapaneseName": "Gennady",
+        "EnglishName": "Gwennady",
+        "JapaneseName": "Gwennady",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -42084,7 +42084,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Froy",
+        "EnglishName": "Alex",
         "JapaneseName": "Froy",
         "Gender": "Male",
         "Position": "MF",
@@ -42156,8 +42156,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "As",
-        "JapaneseName": "As",
+        "EnglishName": "Asu",
+        "JapaneseName": "Asu",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
