@@ -3433,7 +3433,7 @@ var players = [
     },
     {
         "EnglishName": "Sue",
-        "JapaneseName": "Rika",
+        "JapaneseName": "Rica",
         "Gender": "Female",
         "Position": "FW",
         "Element": "Wood",
@@ -7105,7 +7105,7 @@ var players = [
     },
     {
         "EnglishName": "Robingo",
-        "JapaneseName": "Roniejo",
+        "JapaneseName": "Ronijo",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
@@ -43777,7 +43777,7 @@ var players = [
     },
     {
         "EnglishName": "Sue",
-        "JapaneseName": "Rika",
+        "JapaneseName": "Rica",
         "Gender": "Female",
         "Position": "FW",
         "Element": "Wood",
